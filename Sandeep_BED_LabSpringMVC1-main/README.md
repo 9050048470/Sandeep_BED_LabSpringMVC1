@@ -1,4 +1,4 @@
-# Shivam_BED_LabSpringMVC1
+# Sandeep_BED_LabSpringMVC1
 Spring Boot web-based project on Employee Management System. 
 1. Project configurations made using Spring Initializer.
 2. Created a Pojo class called Employee.
